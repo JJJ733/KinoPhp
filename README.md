@@ -22,12 +22,12 @@ System umożliwia użytkownikom rejestrację, logowanie oraz dokonywanie rezerwa
  ![Zrzut ekranu 2025-07-06 152300](https://github.com/user-attachments/assets/43573a50-b3cc-46f8-a40b-b3d0a1e4aba4)
 
 - Podgląd dostępnych miejsc w czasie rzeczywistym
- ![Zrzut ekranu 2025-07-06 152350](https://github.com/user-attachments/assets/2b6027d4-b486-4bd2-904e-682d16d1fe5e)
+ ![Zrzut ekranu 2025-07-06 160227](https://github.com/user-attachments/assets/d2f5a116-1641-4ce2-a293-90362320b024)
+
 
 - Edycja (zmiana miejsc lub liczby biletów) i usuwanie rezerwacji 
  ![Zrzut ekranu 2025-07-06 152445](https://github.com/user-attachments/assets/cff6fd08-baf9-4b2c-8b1f-16e62cde81b5)
- ![Zrzut ekranu 2025-07-06 152517](https://github.com/user-attachments/assets/9ed7c407-4f3f-4687-b5c1-93dfd8e90374)
-
+![Zrzut ekranu 2025-07-06 160411](https://github.com/user-attachments/assets/33f48733-87bc-4d28-a02e-959031d2f99e)
 
 - Odbieranie powiadomień o promocjach i nowościach
  ![Zrzut ekranu 2025-07-06 152205](https://github.com/user-attachments/assets/5c106b49-589b-460e-adb3-66d253ed5bd1)
