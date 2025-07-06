@@ -1,0 +1,50 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 8 sty 2025, 15:56:52
+    Author     : JJ
+*/
+form {
+    background: #ffffff; /* Kolor tła formularza */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Szerokość formularza */
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+input[type="text"], input[type="password"], input[type="email"] {
+    width: calc(100% - 20px); /* Wyrównanie szerokości, uwzględniając padding */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"], input[type="reset"] {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #28a745;
+    color: #fff;
+}
+
+input[type="reset"] {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+input[type="submit"]:hover, input[type="reset"]:hover {
+    opacity: 0.9;
+}

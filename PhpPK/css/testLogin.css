@@ -1,0 +1,86 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 14 sty 2025, 21:33:28
+    Author     : JJ
+*/
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #4E4341;
+    color: #fff;
+}
+
+.top-bar .welcome-message {
+    font-size: 18px;
+}
+
+.top-bar .auth-buttons a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #556B2F;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.top-bar .auth-buttons a:hover {
+    background-color:  #6B8E23;
+}
+
+.edit-reservation-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.edit-reservation-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.edit-reservation-button:hover {
+    background-color: #0056b3;
+}
+
+
+        #notifications-section {
+            display: none;
+            position: fixed;
+            top: 20%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+        }
+        #notifications-section ul {
+            list-style: none;
+            padding: 0;
+        }
+        #notifications-section li {
+            margin-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+        #close-notifications {
+            margin-top: 10px;
+            background-color: #e74c3c;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+

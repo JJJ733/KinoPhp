@@ -1,0 +1,94 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 20 gru 2024, 08:50:40
+    Author     : JJ
+*/
+
+body { 
+    font: 300 13px/22px "Verdana"; 
+    color: #4E4341; 
+    background-color: #f4f4f4;     
+} 
+h1,h2, h3, h4, #stopka {     
+    text-align:center;     
+} 
+h1 { 
+    padding:2em 0 0 0; 
+} 
+
+#tresc, #stopka { 
+    margin:auto; 
+    width:90%; 
+    padding: 1em; 
+    background: #f0f0f0; 
+} 
+
+/* Pasek logowania */
+#login-bar {
+    background-color: #4E4341;
+    padding: 10px;
+    text-align: right;
+}
+
+#login-bar a {
+    text-decoration: none;
+    color: white;
+    background-color: #3A3A3A;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-left: 10px;
+    transition: background-color 0.3s;
+}
+
+#login-bar a:hover {
+    background-color: #4C687A;
+}
+
+#login-bar .register-btn {
+    background-color: #6A6A6A;
+}
+
+#login-bar .register-btn:hover {
+    background-color: #6D8091;
+}
+
+/* Obrazek z napisem Cinema */
+#image-banner img {
+    width: 100%; /* Obraz zajmuje całą szerokość kontenera */
+    height: 250px; /* Automatyczna wysokość, aby zachować proporcje */
+    display: block; /* Usunięcie ewentualnych spacji pod obrazem */
+    margin: 0; /* Usunięcie marginesów */
+    border-bottom: 2px solid #4E4341; /* Utrzymuje linie pod obrazem */
+}
+
+/* Menu nawigacyjne pod obrazkiem */
+#nav {
+    background: #4E4341;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 10px 0;
+    justify-content: space-between;
+    width: 100%;
+    display: flex;
+}
+
+#nav a {
+    float: left;
+    display: inline-block;
+    width: 23%;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    margin: 0 15px;
+    border-bottom: 2px solid transparent;
+    padding: 5px 10px;
+    transition: border-color 0.3s;
+}
+
+#nav a:hover {
+    border-color: white;
+}

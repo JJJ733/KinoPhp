@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "I saw the TV glow",
+      "image": "i_saw_the_tv_glow.jpg",
+      "filmweb": "https://www.filmweb.pl/video/Zwiastun/I+Saw+the+TV+Glow+Zwiastun+nr+1-68305",
+      "times": [
+            {"time": "10:00", "format": "2D (napisy PL)"},
+            {"time": "13:25", "format": "4DX + 3D"},
+            {"time": "18:10", "format": "2D (lektor PL)" },
+            {"time": "19:50", "format": "2D (lektor PL)"}
+      ]   
+    },
+    {
+      "id": "2",
+      "title": "Jurassic World: Dominion",
+      "image": "jurasicpark.jpg",
+      "filmweb": "https://www.filmweb.pl/film/Jurassic+World+Dominion-2022-804059/vod",
+      "times": [
+            {"time":"14:00", "format": "4DX + 3D"},
+            {"time":"16:30", "format": "2D (napisy PL)"},
+            {"time":"19:00", "format": "2D (napisy PL)"},
+            {"time":"21:30", "format": "2D (napisy PL)"},
+            {"time":"22:00", "format": "2D (napisy PL)"}
+        ]
+    },
+    {
+      "id": "3",
+      "title": "Margaux",
+      "image": "m.jpg",
+      "filmweb": "https://www.filmweb.pl/film/Margaux-2022-876374",
+      "times": [
+            {"time": "12:00", "format": "2D (lektor PL)"},
+            {"time":"15:00", "format": "2D (lektor PL)"},
+            {"time": "18:00", "format": "2D (lektor PL)"}
+        ]
+    },
+    {
+      "id": "4",
+      "title": "The Meg 2",
+      "image": "meg2.jpg",
+      "filmweb": "https://www.filmweb.pl/film/Meg+2%3A+G%C5%82%C4%99bia-2023-10010261",
+      "times":[{"time":"22:30", "format": "4DX + 3D"}]     
+    },
+    {
+      "id": "5",
+      "title": "Garfield",
+      "image": "the-garfield-movie.jpg",
+      "filmweb": "https://www.filmweb.pl/film/Garfield-2024-840869",
+      "times":[
+            {"time": "10:05", "format": "2D (lektor PL)"},
+            {"time": "13:20", "format": "2D (napisy PL)"}
+        ]
+    },
+    {
+      "id": "6",
+      "title": "Lamborghini ",
+      "image": "Lamborghini_v2.jpg",
+      "filmweb": "https://www.filmweb.pl/film/Lamborghini%3A+Cz%C5%82owiek%2C+kt%C3%B3ry+stworzy%C5%82+legend%C4%99-2022-807725",
+      "times": [
+            {"time":"12:20", "format": "4DX + 3D"}, 
+            {"time": "14:50","format": "2D (napisy PL)"},
+            {"time":"17:30", "format": "2D (lektor PL)"}
+        ]      
+    }
+  ]
+}
